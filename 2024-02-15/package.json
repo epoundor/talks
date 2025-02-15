@@ -1,0 +1,16 @@
+{
+  "name": "design-system-front",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^51.1.1",
+    "@slidev/theme-bricks": "^0.25.0",
+    "@slidev/theme-default": "latest",
+    "vue": "^3.5.13"
+  }
+}
