@@ -8,6 +8,7 @@
     "export": "slidev export"
   },
   "dependencies": {
+    "@iconify-json/mdi": "^1.2.3",
     "@slidev/cli": "^51.1.1",
     "@slidev/theme-bricks": "^0.25.0",
     "@slidev/theme-default": "latest",
